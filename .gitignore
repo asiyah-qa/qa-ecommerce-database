@@ -1,0 +1,29 @@
+
+# Ignore database dumps and logs
+*.log
+*.sql~
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore Python bytecode (if used in script extensions)
+__pycache__/
+*.py[cod]
+
+# Ignore node_modules if using JS tooling
+node_modules/
+
+# Ignore environment files
+.env
+.env.*
+
+# Ignore backup or temp files
+*~
+*.bak
+
+# Ignore VSCode settings
+.vscode/
+
+# Ignore zip files
+*.zip
