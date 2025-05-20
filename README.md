@@ -1,5 +1,8 @@
 # 🛒 QA E-Commerce Database Project
 
+![GitHub last commit](https://img.shields.io/github/last-commit/asiyah-qa/qa-ecommerce-database)
+![Repo size](https://img.shields.io/github/repo-size/asiyah-qa/qa-ecommerce-database)
+![Language](https://img.shields.io/github/languages/top/asiyah-qa/qa-ecommerce-database)
 ![GitHub issues](https://img.shields.io/github/issues/asiyah-qa/qa-ecommerce-database)
 ![GitHub stars](https://img.shields.io/github/stars/asiyah-qa/qa-ecommerce-database?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/asiyah-qa/qa-ecommerce-database?style=social)
